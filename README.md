@@ -35,7 +35,7 @@ In this section, we perform an exploratory data analysis to gain insights into t
 - We use a violin plot to visualize the age distribution by gender.
   - **Result:** The violin plot provides a detailed view of the age distribution by gender, showing that the majority of individuals in both genders are in their 20s and 30s.
 
-![Age Distribution by Gender (Violin Plot)](violin plot.png)
+![Age Distribution by Gender (Violin Plot)](violinplot.png)
 
 ### Pairplot
 - We create a pairplot to visualize relationships between variables, with gender as a hue.
